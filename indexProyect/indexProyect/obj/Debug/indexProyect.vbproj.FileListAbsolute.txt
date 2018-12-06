@@ -1,0 +1,10 @@
+C:\Users\chjimenez\Documents\SharpDevelop Projects\indexProyect\indexProyect\bin\Debug\indexProyect.exe
+C:\Users\chjimenez\Documents\SharpDevelop Projects\indexProyect\indexProyect\bin\Debug\indexProyect.pdb
+C:\Users\chjimenez\Documents\SharpDevelop Projects\indexProyect\indexProyect\obj\Debug\indexProyect.vbprojResolveAssemblyReference.cache
+C:\Users\chjimenez\Documents\SharpDevelop Projects\indexProyect\indexProyect\obj\Debug\indexProyect.exe
+C:\Users\chjimenez\Documents\SharpDevelop Projects\indexProyect\indexProyect\obj\Debug\indexProyect.pdb
+C:\Users\chjimenez\Documents\SharpDevelop Projects\indexProyect\indexProyect\obj\Debug\indexProyect.MainForm.resources
+C:\Users\chjimenez\Documents\SharpDevelop Projects\indexProyect\indexProyect\obj\Debug\indexProyect.vbproj.GenerateResource.Cache
+C:\Users\chjimenez\Documents\SharpDevelop Projects\indexProyect\indexProyect\obj\Debug\indexProyect.Form2.resources
+C:\Users\chjimenez\Documents\SharpDevelop Projects\indexProyect\indexProyect\obj\Debug\indexProyect.Form3.resources
+C:\Users\chjimenez\Documents\SharpDevelop Projects\indexProyect\indexProyect\obj\Debug\indexProyect.Form1.resources
